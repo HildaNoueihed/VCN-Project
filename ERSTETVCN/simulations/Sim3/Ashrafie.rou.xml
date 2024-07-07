@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-03-05 19:05:31 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+    <route id="r_0" edges="in12I I2F F2C C2B B2A A2out1"/>
+    <route id="r_1" edges="in52AG AG2H H2F F2L L2K K2J J2Z Z2AA AA2out3"/>
+    <route id="r_2" edges="in42AF AF2AD AD2AC E0 W2V 480510769#4 U2T T2S S2Q Q2N N2B B2A A2out1"/>
+    <route id="r_3" edges="in22O O2P P2Q Q2N N2M M2L L2K K2J J2I I2G G2out5"/>
+    <route id="r_4" edges="in32A A2O O2P P2R R2out2"/>
+    <route id="r_5" edges="in12Z Z2X X2Y Y2W W2V 480510769#4 U2T T2S S2Q Q2N N2B B2A A2out1"/>
+    <route id="r_6" edges="in12Z Z2X X2K K2J J2I I2G G2out5"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    
+    <trip id="t_7" depart="0.00" from="in12Z" to="G2out5" via="Z2X X2K K2J J2I I2G"/>  
+    <trip id="t_0" depart="0.00" from="in12I" to="A2out1"/>
+    <trip id="t_2" depart="0.00" from="in42AF" to="A2out1"/>
+    <trip id="t_8" depart="3.00" from="in52AG" to="AA2out3" via="AG2H H2F F2L L2K K2J J2Z Z2AA"/>
+    <trip id="t_5" depart="4.00" from="in12Z" to="A2out1"/>
+    <trip id="t_4" depart="5.00" from="in32A" to="R2out2"/>
+    <trip id="t_13" depart="9.00" from="in42AF" to="A2out1"/>
+    <trip id="t_9" depart="10.00" from="in12I" to="A2out1"/>
+    <trip id="t_17" depart="12.00" from="in32A" to="R2out2"/>
+    <trip id="t_14" depart="14.00" from="in42AF" to="A2out1"/>
+    <trip id="t_19" depart="15.00" from="in12Z" to="A2out1"/>
+    <trip id="t_10" depart="15.00" from="in12I" to="A2out1"/>
+    <trip id="t_18" depart="18.00" from="in32A" to="R2out2"/>
+    <trip id="t_20" depart="18.00" from="in12Z" to="A2out1"/>
+    <trip id="t_1" depart="18.00" from="in52AG" to="AA2out3"/>
+    <trip id="t_11" depart="20.00" from="in52AG" to="AA2out3"/>
+    <trip id="t_12" depart="22.00" from="in52AG" to="AA2out3"/>
+
+ 
+</routes>

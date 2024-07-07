@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/erstetvcn -n .:../src $*
+# for shared lib, use: opp_run -l ../src/erstetvcn -n .:../src $*

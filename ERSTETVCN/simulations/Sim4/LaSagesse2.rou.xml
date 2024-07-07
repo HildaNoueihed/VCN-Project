@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-02-28 21:46:59 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+    <route id="r_0" edges="42AE AE2AF AF2AH AH2AI AI2AJ AJ2AK AK2AL AL2AR AR2BI BI2BL BL2M M2N N2G G2H H2K"/>
+    <route id="r_1" edges="42AE AE2AF AF2AH AH2AI AI2AT AT2AV AV25"/>
+    <route id="r_2" edges="62AU E1 AM2AG AG2AF AF2AE AE23"/>
+    <route id="r_3" edges="E0 F2O O2V V2W W2BH BH2BG BG2AO AO2AN AN2AM AM2AG AG2AF AF2AE AE23"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="t_0" depart="0.00" from="42AE" to="H2K"/>
+    <trip id="t_11" depart="0.00" from="62AU" to="AE23"/>
+    <trip id="t_18" depart="0.00" from="E0" to="AE23"/>
+    <trip id="t_6" depart="3.00" from="42AE" to="AV25"/>
+    <trip id="t_12" depart="3.00" from="62AU" to="AE23"/>
+    <trip id="t_1" depart="5.00" from="42AE" to="H2K"/>
+    <trip id="t_19" depart="5.00" from="E0" to="AE23"/>
+    <trip id="t_2" depart="8.00" from="42AE" to="H2K"/>
+    <trip id="t_13" depart="8.00" from="62AU" to="AE23"/>
+    <trip id="t_20" depart="10.00" from="E0" to="AE23"/>
+    <trip id="t_3" depart="12.00" from="42AE" to="H2K"/>
+    <trip id="t_14" depart="12.00" from="62AU" to="AE23"/>
+    <trip id="t_7" depart="15.00" from="42AE" to="AV25"/>
+    <trip id="t_21" depart="15.00" from="E0" to="AE23"/>
+    <trip id="t_15" depart="16.00" from="62AU" to="AE23"/>
+    <trip id="t_22" depart="17.00" from="E0" to="AE23"/>
+    <trip id="t_4" depart="18.00" from="42AE" to="H2K"/>
+    <trip id="t_16" depart="20.00" from="62AU" to="AE23"/>
+    <trip id="t_8" depart="20.00" from="42AE" to="AV25"/>
+    <trip id="t_23" depart="20.00" from="E0" to="AE23"/>
+    <trip id="t_5" depart="25.00" from="42AE" to="H2K"/>
+    <trip id="t_9" depart="28.00" from="42AE" to="AV25"/>
+    <trip id="t_10" depart="28.00" from="42AE" to="AV25"/>
+    <trip id="t_17" depart="30.00" from="62AU" to="AE23"/>
+     <trip id="t_24" depart="40.00" from="42AE" to="H2K"/>
+
+
+
+
+</routes>
